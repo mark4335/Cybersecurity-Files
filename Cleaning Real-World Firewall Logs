@@ -1,3 +1,0 @@
-This document presents a data cleaning and profiling project on real-world firewall logs, completed by Mark Waako.
-The project focuses on identifying data quality issues in raw firewall logs and applying Python/Pandas transformation 
-techniques to clean, standardize, and validate the dataset for network analysis and threat detection.
